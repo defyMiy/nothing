@@ -1,2 +1,1 @@
-just code for fun
-nothing else
+nothing
